@@ -34,3 +34,5 @@ MegoTicketsPublic was deployed to 0x9b2aA2C91EAFD4e5Caf0381338144591CAD264f2
 ```
 yarn hardhat verify --network zkTestnet <YOUR_CONTRACT_ADDRESS_HERE> "MEGO TICKETS" "MTK"
 ```
+
+You can now see the deployment here and interact with it via browser: https://goerli.explorer.zksync.io/address/0x9b2aA2C91EAFD4e5Caf0381338144591CAD264f2
